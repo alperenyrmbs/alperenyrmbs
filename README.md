@@ -6,15 +6,15 @@ I'm preparing to graduate in **December 2026** and exploring **entry-level oppor
 
 [Personal website](https://alperenyrmbs.github.io/) · [LinkedIn](https://www.linkedin.com/in/alperenyr/)
 
-## Selected coursework
+## Selected work
 
 | Work | What to explore | Tools |
 | --- | --- | --- |
 | [Contact Data Cleanup](https://github.com/alperenyrmbs/assignment-5) | Email validation, phone normalization, duplicate handling, CSV output, and unit-test exercises | Python, regular expressions, unittest |
 | [Book Library App](https://github.com/alperenyrmbs/assignment-7) | A table of books, an input form, validation, and session-state updates | Python, pandas, Streamlit |
-| [Student Grade Tracker Demo](https://github.com/alperenyrmbs/streamlit) | A guided notebook for displaying and exploring sample student grades | Python, pandas, Streamlit |
+| [Personal Portfolio](https://github.com/alperenyrmbs/alperenyrmbs.github.io) | A static website presenting my education, coursework, and career interests | HTML, CSS, GitHub Pages |
 
-These repositories contain university coursework and guided exercises. They show my learning process; they are not production applications or professional client projects.
+The two notebook repositories contain university coursework with assignment-provided scaffolding. They show my learning process; they are not production applications or professional client projects.
 
 ## My current toolkit
 
