@@ -1,4 +1,4 @@
-# Hi, I'm Alperen Y.
+# Hi, I'm Alperen 
 
 
 ### Data Science senior at the University of North Texas
